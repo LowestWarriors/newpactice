@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koror\\Desktop\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\koror\\Desktop\\LowestWarriors\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koror\\Desktop\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\koror\\Desktop\\LowestWarriors\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koror\\Desktop\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\koror\\Desktop\\LowestWarriors\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\koror\\Desktop\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\koror\\Desktop\\LowestWarriors\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\koror\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koror\\Desktop\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\koror\\Desktop\\LowestWarriors\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
