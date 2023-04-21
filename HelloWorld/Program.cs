@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("二回目です。");
+            Console.WriteLint("3回目です");
         }
     }
 }
