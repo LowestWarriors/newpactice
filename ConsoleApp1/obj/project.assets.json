@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h1904\\OneDrive\\デスクトップ\\勉強\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\h1904\\OneDrive\\デスクトップ\\LowestWarriors\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\h1904\\OneDrive\\デスクトップ\\勉強\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\h1904\\OneDrive\\デスクトップ\\LowestWarriors\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\h1904\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h1904\\OneDrive\\デスクトップ\\勉強\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\h1904\\OneDrive\\デスクトップ\\LowestWarriors\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\h1904\\AppData\\Roaming\\NuGet\\NuGet.Config",
